@@ -1,0 +1,22 @@
+[
+  {
+    "items": [
+      {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 3
+      }
+    ],
+    "customer": {
+      "name": "adasdas",
+      "email": "adasd@gmail.com",
+      "street": "maciek",
+      "postal-code": "123123",
+      "city": "wwww"
+    },
+    "id": "237.59990831907984"
+  }
+]
